@@ -1,4 +1,4 @@
-# A-Algorithm-
+# A* Algorithm
 A* algorithm implementation with C.
 
 This is a simple A* implementation in C, this project is part of my master's degree. 
